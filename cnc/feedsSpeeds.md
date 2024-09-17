@@ -10,12 +10,7 @@ nav_order: 8
 
 ## End Mill Anatomy
 ![](../attachments/pasted-image-20240321105401.png)
-- https://www.endmill.com.au/blog/choosing-the-right-end-mill-for-the-job/ // selecting bits, good read, recommended 
-- Amana Fusion 360 Tool Library
-	- https://www.amanatool.com/view-amana-tool-fusion-360-library
-	- [[Amana-Tool-Fusion-Master.tools)  // available via Prototyping Studio team cloud
-- Sample bit
-	- https://www.amanatool.com/46420-solid-carbide-spiral-plunge-3-8-dia-x-1-1-4-x-3-8-shank-down-cut.html?ff=1&fp=8806
-- Sample feeds and speeds
-	- [[Solid-Carbide-Spiral-Plunge-2-3-Flute-v26.pdf)
-	- https://www.amanatool.com/pub/media/productattachments/Solid-Carbide-Spiral-Plunge-2-3-Flute-v26.pdf
+- [Choosing the Right Endmill for the Job](https://www.endmill.com.au/blog/choosing-the-right-end-mill-for-the-job/) // selecting bits, good read, recommended 
+- [Amana Fusion 360 Tool Library](https://www.amanatool.com/view-amana-tool-fusion-360-library)
+- [Sample bit](https://www.amanatool.com/46420-solid-carbide-spiral-plunge-3-8-dia-x-1-1-4-x-3-8-shank-down-cut.html?ff=1&fp=8806)
+- [Sample feeds and speeds](https://www.amanatool.com/pub/media/productattachments/Solid-Carbide-Spiral-Plunge-2-3-Flute-v26.pdf)
