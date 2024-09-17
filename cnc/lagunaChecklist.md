@@ -5,8 +5,9 @@ parent: CNC
 ---
 
 ### Fusion 360
-<label><input type="checkbox"> The first item </label>
-<label><input type="checkbox"> The second item </label>
+<label><input type="checkbox"> The first item </label></p>
+<label><input type="checkbox"> The second item </label></p>
+<label><input type="checkbox"> The third item </label></p>
 - [ ] Origin located at BOTTOM of stock
 - [ ] Tool numbers up to date w/ installed bits
 - [ ] Contour cuts on correct side of cutting line (inside, outside)
