@@ -5,6 +5,7 @@ parent: CNC
 ---
 
 ### Fusion 360
+<label><input type="checkbox">The first time</label>
 - [ ] Origin located at BOTTOM of stock
 - [ ] Tool numbers up to date w/ installed bits
 - [ ] Contour cuts on correct side of cutting line (inside, outside)
