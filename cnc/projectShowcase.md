@@ -6,6 +6,9 @@ parent: Index
 ## Summer 2024
 
 ### MDF Wing Forms
+Two Part Form
+![](../attachments/PXL_20240827_200444307.jpg)
+![](../attachments/PXL_20240827_200416705.jpg)
 Dual Layer
 ![](../attachments/pxl_20240729_190949474.jpg) 
 Single Layer
