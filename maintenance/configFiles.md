@@ -1,5 +1,5 @@
 ---
-title: Config Files
+title: Configuration Files
 layout: default
 parent: Maintenance Resources
 nav_order: 3
