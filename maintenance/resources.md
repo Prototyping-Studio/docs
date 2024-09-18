@@ -11,8 +11,3 @@ parent: Index
 ## Hot End Components
 ![Hot End Components](../attachments/e3d_v6_hotend.png)
 [Anatomy of a Hotend](https://e3d-online.com/blogs/news/anatomy-of-a-hotend)
-
-# Configuration File Repository
-- Requires Github account & invite to Prototyping Studio team
-- Contains slicer profiles & klipper config files
-[Config File Repo](https://github.com/Prototyping-Studio/3dPrinters/tree/main)
