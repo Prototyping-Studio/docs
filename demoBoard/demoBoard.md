@@ -15,9 +15,4 @@ Adding Board Libraries to Arduino IDE
 
 <https://learn.adafruit.com/adafruit-metro-mini/arduino-ide-usage>
 
-## CAD Files
-[Basic Drawer (Fusion 360)](../attachments/demo_board_drawer_standalone.f3d)
 
-[Basic Drawer (STEP)](../attachments/demo_board_drawer_standalone.step)
-
-[Drawer Face (SVG)](../attachments/demo_board_drawer_front_face.svg)
