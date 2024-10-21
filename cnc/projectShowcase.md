@@ -3,6 +3,10 @@ title: CNC Project Showcase
 layout: default
 parent: Index
 ---
+## Fall 2024
+![](../attachments/foam_ghost_1_small.jpg)
+![](../attachments/foam_ghost_2_small.jpg)
+
 ## Summer 2024
 
 ### MDF Wing Forms
