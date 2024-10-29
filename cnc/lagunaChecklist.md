@@ -15,17 +15,17 @@ parent: CNC
 <div><label><input type="checkbox"> Post processor uses "DOCUMENT UNITS" setting</label></div>
 
 ## Laguna Control
-<div><label><input type="checkbox"> All bits zero'd via auto touchoff</label></div>
-<div><label><input type="checkbox"> Gcode verified</label></div>
-<div><label><input type="checkbox"> Stock secure to bed via vacuum pressure, double sided tape, tabs or fixture</label></div>
-<div><label><input type="checkbox"> X/Y zero point established</label></div>
-<div><label><input type="checkbox"> CNC bed clear except stock</label></div>
-<div><label><input type="checkbox"> At least one other staff member in Proto Studio (in case of emergency)</label></div>
 <div><label><input type="checkbox"> Door to fabrication room closed</label></div>
+<div><label><input type="checkbox"> At least one other staff member in Proto Studio (in case of emergency)</label></div>
 <div><label><input type="checkbox"> Everyone has appropriate PPE (glasses, headphones, mask)</label></div>
-<div><label><input type="checkbox"> Everyone located at a safe distance from CNC</label></div>
 <div><label><input type="checkbox"> Position rods lowered</label></div>
+<div><label><input type="checkbox"> CNC bed clear except stock</label></div>
+<div><label><input type="checkbox"> Stock secure to bed via vacuum pressure, double sided tape, tabs or fixture</label></div>
+<div><label><input type="checkbox"> G-Code verified</label></div>
+<div><label><input type="checkbox"> All bits zero'd via auto touchoff</label></div>
+<div><label><input type="checkbox"> X/Y zero point established</label></div>
 <div><label><input type="checkbox"> Vacuum pump on</label></div>
 <div><label><input type="checkbox"> Dust collection on</label></div>
+<div><label><input type="checkbox"> Everyone located at a safe distance from CNC</label></div>
 <div><label><input type="checkbox"> CNC operator within reach of an e-stop</label></div>
 
