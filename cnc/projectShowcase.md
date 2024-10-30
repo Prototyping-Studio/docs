@@ -4,6 +4,11 @@ layout: default
 parent: Index
 ---
 ## Fall 2024
+
+### MDF Topographic Map
+![](../attachments/30Oct24_topo_operations.png)
+
+### Foam Ghost
 ![](../attachments/foam_ghost_1_small.jpg)
 ![](../attachments/foam_ghost_2_small.jpg)
 
