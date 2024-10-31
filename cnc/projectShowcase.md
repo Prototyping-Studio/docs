@@ -5,6 +5,9 @@ parent: Index
 ---
 ## Fall 2024
 
+### Poplar Guitar
+![](../attachments/31Oct24_guitar_operations.png)
+
 ### MDF Topographic Map
 ![](../attachments/30Oct24_topo_operations.png)
 
