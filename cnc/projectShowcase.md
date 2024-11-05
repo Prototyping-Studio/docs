@@ -5,6 +5,9 @@ parent: Index
 ---
 ## Fall 2024
 
+### Pine Shield
+![](../attachments/5Nov24_link_shield.png)
+
 ### Poplar Guitar
 ![](../attachments/31Oct24_guitar_operations.png)
 
