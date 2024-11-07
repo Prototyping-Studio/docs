@@ -17,6 +17,9 @@ parent: Index
 ### MDF Topographic Map
 ![](../attachments/30Oct24_topo_operations.png)
 
+### Plywood Bike Rack
+![](../attachments/Oct24_bike_rack.png)
+
 ### Foam Ghost
 ![](../attachments/foam_ghost_1_small.jpg)
 ![](../attachments/foam_ghost_2_small.jpg)
