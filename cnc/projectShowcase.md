@@ -5,6 +5,9 @@ parent: Index
 ---
 ## Fall 2024
 
+### Maple Guitar Body
+![](../attachments/6Nov24_maple_guitar.png)
+
 ### Pine Shield
 ![](../attachments/5Nov24_link_shield.png)
 
