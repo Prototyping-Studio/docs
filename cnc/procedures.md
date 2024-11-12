@@ -18,7 +18,7 @@ nav_order: 5
 - Park any installed tooling (Home screen > Park)
 - Press green power button
 - Switch key to 'OFF' position (counter-clockwise)
-- Turn on main power
+- Turn off main power
 - Turn off air
 
 ### Running Program
