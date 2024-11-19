@@ -21,3 +21,6 @@ nav_order: 3
 [Klipper Config](klipper/walle/printer.cfg)
 
 [Klipper LED Config](klipper/walle/stealthburner_leds.cfg)
+
+### Prusa Slicer (Work in Progress)
+[Proto Config](slicer_profiles/proto_config_prusa_slicer_13Nov24.ini)
