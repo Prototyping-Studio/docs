@@ -15,6 +15,7 @@ parent: Index
 ![](../attachments/31Oct24_guitar_operations.png)
 
 ### MDF Topographic Map
+![](../attachments/mdf_topo_skyline_3.JPG)
 ![](../attachments/30Oct24_topo_operations.png)
 
 ### Plywood Bike Rack
