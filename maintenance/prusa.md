@@ -29,4 +29,6 @@ nav_order: 1
 ### [Prusa Calibration Cube](../attachments/cube_prusa_v1.stl)
 ![Prusa Calibration Cube](../attachments/prusa_calibration_cube.png)
 
+### [Lead Screw Cleaning Tool](../attachments/RODSLOTH.stl)
+![Lead Screw Cleaning Tool](../attachments/rodsloth_stl.png)
 
