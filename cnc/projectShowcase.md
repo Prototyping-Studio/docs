@@ -5,6 +5,11 @@ parent: Index
 ---
 ## Fall 2024
 
+### Plywood Sculpture
+![](../attachments/cnc_shadows_10Dec24.png)
+<div align="center">Credit: Jonathan Chamblee</div>
+![](../attachments/cnc_shadows_milling_10Dec24.png)
+
 ### Maple Guitar Body
 ![](../attachments/6Nov24_maple_guitar.png)
 
@@ -16,10 +21,12 @@ parent: Index
 
 ### MDF Topographic Map
 ![](../attachments/mdf_topo_skyline_3.JPG)
+<div align="center">Credit: Angelika Giavis</div>
 ![](../attachments/30Oct24_topo_operations.png)
 
 ### Plywood Bike Rack
 ![](../attachments/Oct24_bike_rack.png)
+<div align="center">Credit: Tripp Shealy</div>
 
 ### Foam Ghost
 ![](../attachments/foam_ghost_1_small.jpg)
