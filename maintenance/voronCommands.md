@@ -1,7 +1,7 @@
 ---
-title: Voron Commands
+title: Terminal Commands 
 layout: default
-parent: Maintenance Resources
+parent: Voron 2.4 
 nav_order: 2
 ---
 
