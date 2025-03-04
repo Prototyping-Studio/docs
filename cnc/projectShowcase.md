@@ -4,6 +4,8 @@ layout: default
 parent: Index
 ---
 ## Spring 2025
+
+### MDF Tactile Tile
 ![](../attachments/tactile_tile_spring25.png)
 
 ## Fall 2024
