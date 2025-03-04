@@ -3,6 +3,9 @@ title: CNC Project Showcase
 layout: default
 parent: Index
 ---
+## Spring 2025
+![](../attachments/tactile_tile_spring25.png)
+
 ## Fall 2024
 
 ### Plywood Sculpture
