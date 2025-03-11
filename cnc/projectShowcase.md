@@ -18,6 +18,15 @@ parent: Index
 <div align="center">Credit: Jonathan Chamblee</div>
 ![](../attachments/cnc_shadows_milling_10Dec24.png)
 
+### Plywood Ornamental Gears
+![](../attachments/plywood_kit_display_2_fall24.jpg)
+
+### Delrin Test Fixture
+![](../attachments/delrin_test_fixture_2_fall24.jpg)
+
+### Cherry Desk Organizer
+![](../attachments/cherry_organizer_fall24.jpg)
+
 ### Maple Guitar Body
 ![](../attachments/6Nov24_maple_guitar.png)
 
