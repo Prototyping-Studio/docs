@@ -6,16 +6,16 @@ parent: Index
 ## Spring 2025
 
 ### Walnut Desk Organizer
-![](../attachments/walnut_desk_organizer_0323.png)
+![](../attachments/walnut_desk_organizer_0323.jpg)
 
 ### Maple Guitar Neck
-![](../attachments/guitar_neck_0320.png)
+![](../attachments/guitar_neck_0320.jpg)
 
 ### Plywood Flat Pack Table
-![](../attachments/flat_pack_table_0319.png)
+![](../attachments/flat_pack_table_0319.jpg)
 
 ### MDF Site Map
-![](../attachments/mdf_site_model_0312.png)
+![](../attachments/mdf_site_model_0312.jpg)
 
 ### MDF Site Map
 ![](../attachments/mdf_site_map_spring2025.jpg)
