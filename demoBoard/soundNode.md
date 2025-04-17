@@ -7,7 +7,8 @@ nav_order: 1
 ## Sound Node
 ![](../attachments/pasted-image-20240822114638.png)
 ### Hardware
-<https://www.adafruit.com/product/1788 // MP3 shield w/ SD card reader>
+<https://www.adafruit.com/product/1788> // MP3 shield w/ SD card reader
+
 ### Tutorials
 <https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all>
 ### Dependencies
