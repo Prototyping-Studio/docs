@@ -21,9 +21,9 @@ parent: CNC
 <div><label><input type="checkbox"> Position rods lowered</label></div>
 <div><label><input type="checkbox"> CNC bed clear except stock</label></div>
 <div><label><input type="checkbox"> Stock secure to bed via vacuum pressure, double sided tape, tabs or fixture</label></div>
+<div><label><input type="checkbox"> X/Y zero point established</label></div>
 <div><label><input type="checkbox"> G-Code verified</label></div>
 <div><label><input type="checkbox"> All bits zero'd via auto touchoff</label></div>
-<div><label><input type="checkbox"> X/Y zero point established</label></div>
 <div><label><input type="checkbox"> Vacuum pump on</label></div>
 <div><label><input type="checkbox"> Dust collection on</label></div>
 <div><label><input type="checkbox"> Everyone located at a safe distance from CNC</label></div>
