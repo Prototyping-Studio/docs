@@ -26,6 +26,9 @@ nav_order: 1
 ### [Fan Shroud](../attachments/fan-shroud.stl)
 ![Fan Shroud](../attachments/prusa_fan_shroud.png)
 
+### [Filament Sensor Cover](../attachments/mk3s_fs_cover_0618.stl)
+![Filament Sensor](../attachments/fs-cover-0618.png)
+
 ### [Prusa Calibration Cube](../attachments/cube_prusa_v1.stl)
 ![Prusa Calibration Cube](../attachments/prusa_calibration_cube.png)
 
